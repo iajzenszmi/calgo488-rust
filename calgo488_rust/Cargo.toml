@@ -1,0 +1,7 @@
+[package]
+name = "calgo488"
+version = "0.1.0"
+edition = "2021"
+description = "Independent Rust implementation of ACM CALGO 488 GRAND"
+
+[dependencies]
